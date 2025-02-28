@@ -1,7 +1,6 @@
 ---
-title: "Mansour Shahhosseini | PhD Student in Quantitative Marketing"
-description: "Welcome to my academic page"
----
+title: "Mansour Shahhosseini"
+description: "PhD Student in Quantitative Marketing"
 ---
 [CV](#cv) • [Research](#research) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
 ---

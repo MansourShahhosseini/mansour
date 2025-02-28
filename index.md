@@ -2,12 +2,6 @@
 title: "Mansour Shahhosseini | PhD Student in Quantitative Marketing"
 description: "Welcome to my academic page"
 ---
-
-# Mansour Shahhosseini  
-**PhD Student in Quantitative Marketing**
-
-Welcome to my academic page. Here you can find my research interests, publications, and more.
-
 ---
 [CV](#cv) • [Research](#research) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
 ---
@@ -22,16 +16,14 @@ Provide an overview of your education, experience, and any relevant details:
 - **Experience**: [Describe professional/academic roles]  
 - **Awards**: [List honors and awards]
 
-## <a name="research"></a>Research
-Describe your main research areas, current projects, and interests.
-
-## <a name="working-papers"></a>Working Papers
-List any ongoing research or manuscripts in progress, along with brief abstracts or statuses.
-
 ## <a name="publications"></a>Publications
 - Shahhosseini, M., & Khalili Nasr, A. (2024). *What attributes affect customer satisfaction in green restaurants? An aspect-based sentiment analysis approach.*  
   Journal of Travel & Tourism Marketing, 41(4), 472–490.  
   [https://doi.org/10.1080/10548408.2024.2306358](https://doi.org/10.1080/10548408.2024.2306358)
+  
+## <a name="working-papers"></a>Working Papers
+List any ongoing research or manuscripts in progress, along with brief abstracts or statuses.
+
 
 ## <a name="contact"></a>Contact
 **Email:** [mansour.shahhosseini@temple.edu](mailto:mansour.shahhosseini@temple.edu)

@@ -8,7 +8,7 @@ description: "PhD Student in Quantitative Marketing"
 Will be updated soon. Really soon!!
 
 ## <a name="cv"></a>CV
-Provide an overview of your education, experience, and any relevant details:
+Download CV:
 
 - **Education**: [List degrees, institutions, years]  
 

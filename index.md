@@ -32,8 +32,6 @@ description: "PhD Student in Quantitative Marketing"
 
 <!-- Name and Title -->
 <div class="text-container">
-  <h1>Mansour Shahhosseini</h1>
-  <h2>PhD Student in Quantitative Marketing</h2>
 </div>
 
 <!-- Thin black line above the image -->
@@ -41,9 +39,6 @@ description: "PhD Student in Quantitative Marketing"
 
 <!-- Profile Picture (Ensure it's transparent for a clean effect) -->
 <img src="assets/profile.png" alt="Profile Photo" class="my-profile-pic" />
-
-<!-- Thin black line below the image -->
-<hr class="black-line">
 
 ## CV
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

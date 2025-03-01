@@ -2,7 +2,7 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
-[Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
+[Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Codes](#codes) • [Contact](#contact)
 ---
 ## About Me
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)
@@ -84,6 +84,9 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
   
 ## <a name="working-papers"></a>Working Papers
 - Behrad, Hossein, and Shahhosseini, Mansour, "Show What You Say, Say What You Show: A New Measure of Successful Listing with Empirical Evidence from Airbnb"
+
+## <a name="codes"></a>Codes
+- [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)
 
 ## <a name="contact"></a>Contact
 <!-- Example: inline links with icons and spacing -->

@@ -14,9 +14,9 @@ description: "PhD Student in Quantitative Marketing"
 .my-profile-pic {
   display: block;
   margin: -35px auto 0 auto; /* Pulls the image up into the line */
-  border-radius: 50%; /* Ensure circular shape */
-  width: 180px; /* Adjust to fit */
-  height: 180px;
+  border-radius: 0%; /* Ensure circular shape */
+  width: 200px; /* Adjust to fit */
+  height: 200px;
   object-fit: cover;
   background-color: transparent; /* Ensure it blends with the background */
 }
@@ -33,9 +33,6 @@ description: "PhD Student in Quantitative Marketing"
 <!-- Name and Title -->
 <div class="text-container">
 </div>
-
-<!-- Thin black line above the image -->
-<hr class="black-line">
 
 <!-- Profile Picture (Ensure it's transparent for a clean effect) -->
 <img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />

@@ -24,7 +24,7 @@ header + hr {
 /* Profile image with larger size */
 .my-profile-pic {
   display: block;
-  margin: -60px auto 0 auto; /* Pulls the image up into the line */
+  margin: -50px auto 0 auto; /* Pulls the image up into the line */
   border-radius: 50%; /* Ensure circular shape */
   width: 250px; /* Adjust to fit */
   height: 250px;

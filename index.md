@@ -1,6 +1,7 @@
 ---
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
+
 [Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Codes](#codes) • [Contact](#contact)
 ---
 ## About Me

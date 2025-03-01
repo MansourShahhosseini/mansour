@@ -15,7 +15,7 @@ description: "PhD Student in Quantitative Marketing"
   border-radius: 10%; /* Ensure circular shape */
   width: 250px; /* Adjust to fit */
   height: 250px;
-  object-fit: cover;
+  object-fit: contain;
   background-color: transparent; /* Ensure it blends with the background */
 }
 /* Black line - position controlled to prevent extra space */

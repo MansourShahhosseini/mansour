@@ -88,4 +88,4 @@ List any ongoing research or manuscripts in progress, along with brief abstracts
 
 
 ## <a name="contact"></a>Contact
-[**Email**](mailto:mansour.shahhosseini@temple.edu)   [**Github**](https://github.com/MansourShahhosseini)   [**Google Scholar**](https://scholar.google.com/citations?user=https://scholar.google.com/cit&hl=&user=8iK7T7EAAAAJ)
+[**Email**](mailto:mansour.shahhosseini@temple.edu)                        [**Github**](https://github.com/MansourShahhosseini)                        [**Google Scholar**](https://scholar.google.com/citations?user=https://scholar.google.com/cit&hl=&user=8iK7T7EAAAAJ)

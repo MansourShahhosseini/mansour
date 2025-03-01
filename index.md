@@ -10,13 +10,13 @@ Will be updated soon. Really soon!!
 ## <a name="education"></a>Education
 <!-- Inline CSS for a simple vertical timeline -->
 <style>
-.timeline {
+timeline {
   position: relative;
   margin: 2rem 0;
   padding: 0;
   list-style: none;
 }
-.timeline::before {
+timeline::before {
   content: '';
   position: absolute;
   left: 20px;
@@ -25,12 +25,12 @@ Will be updated soon. Really soon!!
   width: 2px;
   background: #ddd;
 }
-.timeline-item {
+timeline-item {
   position: relative;
   margin: 2rem 0;
   padding-left: 60px;
 }
-.timeline-item::before {
+timeline-item::before {
   content: '';
   position: absolute;
   left: 10px;
@@ -41,16 +41,16 @@ Will be updated soon. Really soon!!
   background: #ff3366; /* Pink circle */
   border: 2px solid #fff;
 }
-.timeline-year {
+timeline-year {
   font-weight: bold;
   color: #666;
 }
-.timeline-content h4 {
+timeline-content h4 {
   margin: 0;
   font-weight: bold;
   color: #333;
 }
-.timeline-content p {
+timeline-content p {
   margin: 0.5rem 0 0;
   color: #666;
 }

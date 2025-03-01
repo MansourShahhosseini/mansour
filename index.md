@@ -38,7 +38,7 @@ description: "PhD Student in Quantitative Marketing"
 <hr class="black-line">
 
 <!-- Profile Picture (Ensure it's transparent for a clean effect) -->
-<img src="assets/profile.png" alt="Profile Photo" class="my-profile-pic" />
+<img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
 
 ## CV
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

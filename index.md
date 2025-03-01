@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "Mansour Shahhosseini"
+description: "PhD Student in Quantitative Marketing"
 ---
 
 <style>
@@ -37,10 +37,6 @@ description: ""
 <!-- Custom Header -->
 <div class="header-container">
   <img src="assets/profile.jpg" alt="Mansour Shahhosseini" />
-  <div class="header-text">
-    <h1>Mansour Shahhosseini</h1>
-    <h2>PhD Student in Quantitative Marketing</h2>
-  </div>
 </div>
 
 ## CV

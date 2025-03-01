@@ -4,6 +4,17 @@ description: "PhD Student in Quantitative Marketing"
 ---
 [Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
 ---
+
+<style>
+/* Reduce extra space above/below the site title and description */
+.site-title,
+.site-description,
+.site-header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+</style>
+
 ## About Me
 
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

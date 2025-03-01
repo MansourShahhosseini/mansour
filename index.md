@@ -7,8 +7,8 @@ description: "PhD Student in Quantitative Marketing"
   display: block;
   margin: -30px auto 1rem auto; /* Example negative top margin to pull it up */
   border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
 }
 </style>

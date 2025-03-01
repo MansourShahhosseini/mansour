@@ -2,18 +2,44 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
+
 <style>
+/* Center the content */
+.text-container {
+  text-align: center;
+  margin-bottom: 5px; /* Reduce space below text */
+}
+
+/* Reduce space above the image */
 .my-profile-pic {
   display: block;
-  margin: -10px auto 1rem auto; /* Example negative top margin to pull it up */
-  border-radius: 10%;
-  width: 150px;
-  height: 150px;
+  margin: -5px auto 0 auto; /* Fine-tuned spacing */
+  border-radius: 50%; /* Make it fully circular */
+  width: 170px; /* Slightly larger image */
+  height: 170px;
   object-fit: cover;
+}
+
+/* Thin black separator lines */
+.black-line {
+  border: none;
+  border-top: 1px solid black;
+  margin: 5px 0; /* Reduced space between image and lines */
 }
 </style>
 
+<!-- Name and Title -->
+<div class="text-container">
+</div>
+
+<!-- Thin black line above the image -->
+<hr class="black-line">
+
+<!-- Profile Picture -->
 <img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
+
+<!-- Thin black line below the image -->
+<hr class="black-line">
 
 ## CV
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

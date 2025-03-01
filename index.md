@@ -83,7 +83,7 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background: #ff3366; /* Pink circle */
+  background: #ff3333; /* Pink circle */
   border: 2px solid #fff;
 }
 .timeline-year {

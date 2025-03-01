@@ -5,8 +5,8 @@ description: "PhD Student in Quantitative Marketing"
 <style>
 .my-profile-pic {
   display: block;
-  margin: -30px auto 1rem auto; /* Example negative top margin to pull it up */
-  border-radius: 50%;
+  margin: -10px auto 1rem auto; /* Example negative top margin to pull it up */
+  border-radius: 10%;
   width: 150px;
   height: 150px;
   object-fit: cover;

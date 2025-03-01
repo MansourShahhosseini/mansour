@@ -4,21 +4,29 @@ description: "PhD Student in Quantitative Marketing"
 ---
 
 <style>
-/* A simple class to float the image up */
-.my-profile-pic {
-  display: block;
-  margin: -30px auto 20px auto; /* Pull up 30px, then 20px space below */
+/* Center align content */
+.container {
+  text-align: center;
+  margin-bottom: 1rem; /* Space before the thin line */
+}
+
+/* Style the image (round and centered) */
+.profile-img {
   border-radius: 50%;
-  width: 120px;
-  height: 120px;
+  width: 120px;  /* Adjust size as needed */
+  height: 120px; /* Ensures a perfect circle */
   object-fit: cover;
-  box-shadow: 0 0 8px rgba(0,0,0,0.1); /* optional subtle shadow */
+  margin-top: 0.5rem; /* Slight spacing below text */
 }
 </style>
 
-<!-- Insert the image immediately AFTER the front matter so the theme 
-     has already placed the big heading and subtitle above it -->
-<img src="assets/profile.jpg" alt="Mansour Shahhosseini" class="my-profile-pic" />
+<div class="container">
+  <h1>Mansour Shahhosseini</h1>
+  <h2>PhD Student in Quantitative Marketing</h2>
+  <img src="assets/profile.jpg" alt="Mansour Shahhosseini" class="profile-img"/>
+</div>
+
+<hr>
 
 ## CV
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

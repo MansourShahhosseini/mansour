@@ -5,7 +5,8 @@ description: "PhD Student in Quantitative Marketing"
 [Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
 ---
 ## About Me
-Will be updated soon. Really soon!!
+
+Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 
 ## <a name="education"></a>Education
 <!-- Inline CSS for a simple vertical timeline -->

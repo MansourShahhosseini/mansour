@@ -2,7 +2,6 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
-
 <style>
 /* Center align content */
 .container {
@@ -23,7 +22,6 @@ description: "PhD Student in Quantitative Marketing"
 <div class="container">
   <img src="assets/profile.jpg" alt="Mansour Shahhosseini" class="profile-img"/>
 </div>
-
 <hr>
 
 ## CV

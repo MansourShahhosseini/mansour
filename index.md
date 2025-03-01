@@ -1,17 +1,9 @@
----
+--
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
----
-<style>
-.nav-links {
-  white-space: nowrap; /* Force everything to stay on one line */
-}
-</style>
-
-<div class="nav-links">
-  [Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Codes](#codes) • [Contact](#contact)
-</div>
-
+-
+[Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Codes](#codes) • [Contact](#contact)
+-
 ## About Me
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 

@@ -2,21 +2,7 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
-<style>
-.nav-links {
-  white-space: nowrap;      /* Keep everything on one line */
-  overflow-x: auto;        /* Horizontal scroll if it doesn't fit */
-  display: block;          /* Make sure the overflow can apply */
-  margin-bottom: 1rem;     /* Optional spacing below the nav */
-}
-</style>
-
-<div class="nav-links">
-  [Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Codes](#codes) • [Contact](#contact)
-</div>
----
-
-## About Me
+## CV
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 
 ## <a name="education"></a>Education

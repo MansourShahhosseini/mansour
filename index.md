@@ -4,40 +4,21 @@ description: "PhD Student in Quantitative Marketing"
 ---
 
 <style>
-/* A simple flex container for a custom header */
-.header-container {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin-bottom: 1rem; /* Some spacing below the header */
-}
-
-/* Style the image (round, fixed width) */
-.header-container img {
+/* A simple class to float the image up */
+.my-profile-pic {
+  display: block;
+  margin: -30px auto 20px auto; /* Pull up 30px, then 20px space below */
   border-radius: 50%;
-  width: 120px;  /* Adjust size as needed */
-  height: 120px; /* Optional, ensures it's a perfect circle */
+  width: 120px;
+  height: 120px;
   object-fit: cover;
-}
-
-/* Style for the text next to the image */
-.header-text h1 {
-  margin: 0;
-  font-size: 2rem; /* Adjust to your preference */
-}
-
-.header-text h2 {
-  margin: 0;
-  font-weight: normal;
-  color: #666; /* Subtle color for the subtitle */
-  font-size: 1.2rem; /* Adjust as needed */
+  box-shadow: 0 0 8px rgba(0,0,0,0.1); /* optional subtle shadow */
 }
 </style>
 
-<!-- Custom Header -->
-<div class="header-container">
-  <img src="assets/profile.jpg" alt="Mansour Shahhosseini" />
-</div>
+<!-- Insert the image immediately AFTER the front matter so the theme 
+     has already placed the big heading and subtitle above it -->
+<img src="assets/profile.jpg" alt="Mansour Shahhosseini" class="my-profile-pic" />
 
 ## CV
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

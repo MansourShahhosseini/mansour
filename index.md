@@ -14,6 +14,7 @@ description: "PhD Student in Quantitative Marketing"
 <div class="nav-links">
   [Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Codes](#codes) • [Contact](#contact)
 </div>
+---
 
 ## About Me
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

@@ -2,6 +2,19 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
+
+<style>
+/* Remove the horizontal rule above the image */
+hr {
+  display: none; /* Hides all <hr> elements */
+}
+
+/* OR: Target only the first <hr> if others are needed */
+header + hr {
+  display: none;
+}
+</style>
+
 <style>
 /* Center the text */
 .text-container {

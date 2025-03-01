@@ -1,6 +1,12 @@
 ---
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
+<style>
+hr {
+  margin: 0 !important; 
+  padding: 0 !important;
+}
+</style>
 ---
 <style>
 hr {

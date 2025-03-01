@@ -13,10 +13,10 @@ description: "PhD Student in Quantitative Marketing"
 /* Profile image with larger size */
 .my-profile-pic {
   display: block;
-  margin: -35px auto 0 auto; /* Pulls the image up into the line */
+  margin: -100px auto 0 auto; /* Pulls the image up into the line */
   border-radius: 0%; /* Ensure circular shape */
-  width: 200px; /* Adjust to fit */
-  height: 200px;
+  width: 250px; /* Adjust to fit */
+  height: 250px;
   object-fit: cover;
   background-color: transparent; /* Ensure it blends with the background */
 }

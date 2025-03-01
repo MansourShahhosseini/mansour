@@ -21,8 +21,6 @@ description: "PhD Student in Quantitative Marketing"
 </style>
 
 <div class="container">
-  <h1>Mansour Shahhosseini</h1>
-  <h2>PhD Student in Quantitative Marketing</h2>
   <img src="assets/profile.jpg" alt="Mansour Shahhosseini" class="profile-img"/>
 </div>
 

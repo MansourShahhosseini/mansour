@@ -74,7 +74,7 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
     <span class="timeline-year">2020</span>
     <div class="timeline-content">
       <h4>Bachelor of Science</h4>
-      <p>in Materials Engineering<br>Iran University of Science and Technology (IUST)</p>
+      <p>in Materials Engineering<br>Iran University of Science and Technology</p>
     </div>
   </li>
 </ul>
@@ -88,6 +88,4 @@ List any ongoing research or manuscripts in progress, along with brief abstracts
 
 
 ## <a name="contact"></a>Contact
-**Email:** [mansour.shahhosseini@temple.edu](mailto:mansour.shahhosseini@temple.edu)   
-[**Github**](https://github.com/MansourShahhosseini)   
-[**Google Scholar**](https://scholar.google.com/citations?user=https://scholar.google.com/cit&hl=&user=8iK7T7EAAAAJ)
+[**Email**](mailto:mansour.shahhosseini@temple.edu)   [**Github**](https://github.com/MansourShahhosseini)   [**Google Scholar**](https://scholar.google.com/citations?user=https://scholar.google.com/cit&hl=&user=8iK7T7EAAAAJ)

@@ -4,39 +4,43 @@ description: "PhD Student in Quantitative Marketing"
 ---
 
 <style>
-/* Center the content */
+/* Center the text */
 .text-container {
   text-align: center;
-  margin-bottom: 5px; /* Reduce space below text */
+  margin-bottom: 10px; /* Adjust space */
 }
 
-/* Reduce space above the image */
+/* Profile image with larger size */
 .my-profile-pic {
   display: block;
-  margin: -5px auto 0 auto; /* Fine-tuned spacing */
-  border-radius: 50%; /* Make it fully circular */
-  width: 170px; /* Slightly larger image */
-  height: 170px;
+  margin: -35px auto 0 auto; /* Pulls the image up into the line */
+  border-radius: 50%; /* Ensure circular shape */
+  width: 180px; /* Adjust to fit */
+  height: 180px;
   object-fit: cover;
+  background-color: transparent; /* Ensure it blends with the background */
 }
 
-/* Thin black separator lines */
+/* Black line - position controlled to prevent extra space */
 .black-line {
   border: none;
-  border-top: 1px solid black;
-  margin: 5px 0; /* Reduced space between image and lines */
+  border-top: 2px solid black; /* Make the line bolder if needed */
+  margin: 5px auto; /* Fine-tuned margin */
+  width: 80%; /* Adjust width to fit layout */
 }
 </style>
 
 <!-- Name and Title -->
 <div class="text-container">
+  <h1>Mansour Shahhosseini</h1>
+  <h2>PhD Student in Quantitative Marketing</h2>
 </div>
 
 <!-- Thin black line above the image -->
 <hr class="black-line">
 
-<!-- Profile Picture -->
-<img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
+<!-- Profile Picture (Ensure it's transparent for a clean effect) -->
+<img src="assets/profile.png" alt="Profile Photo" class="my-profile-pic" />
 
 <!-- Thin black line below the image -->
 <hr class="black-line">

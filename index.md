@@ -1,12 +1,6 @@
 ---
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
-<style>
-hr {
-  margin: 0 !important; 
-  padding: 0 !important;
-}
-</style>
 ---
 <style>
 hr {
@@ -18,7 +12,6 @@ hr {
 [Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
 ---
 ## About Me
-
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 
 ## <a name="education"></a>Education
@@ -99,9 +92,7 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 ## <a name="working-papers"></a>Working Papers
 - Behrad, Hossein, and Shahhosseini, Mansour, "Show What You Say, Say What You Show: A New Measure of Successful Listing with Empirical Evidence from Airbnb"
 
-
 ## <a name="contact"></a>Contact
-
 <!-- Example: inline links with icons and spacing -->
 [<img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" alt="Email Icon"> **Email**](mailto:mansour.shahhosseini@temple.edu)&emsp;
 [<img src="https://img.icons8.com/ios-glyphs/20/000000/github.png" alt="GitHub Icon"> **GitHub**](https://github.com/MansourShahhosseini)&emsp;

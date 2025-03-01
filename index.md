@@ -49,7 +49,7 @@ header + hr {
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 
 ## Research Interests
-**Areas:** Customer Analytics, Social Media, Unstructured Data in Marketing
+**Areas:** Customer Analytics, Social Media, Unstructured Data in Marketing   
 **Methods:** Econometrics, Causal Inference, Deep Learning
 
 ## <a name="education"></a>Education

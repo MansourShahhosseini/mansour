@@ -129,7 +129,11 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
   
 ## <a name="working-papers"></a>Working Papers
 - Behrad, Hossein, and Shahhosseini, Mansour, "Show What You Say, Say What You Show: A New Measure of Successful Listing with Empirical Evidence from Airbnb"
+- Shahhosseini, Mansour, and Luo, Xueming, "Causal Impact of Brands Supports for Abortion Rights on Consumers Spending"
 
+## <a name="working-in_progress"></a>Work in Progress
+- "How to Sell in Second-hand Market"
+  
 ## <a name="codes"></a>Codes
 - [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)
 

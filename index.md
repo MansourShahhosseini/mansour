@@ -132,7 +132,7 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 - Shahhosseini, Mansour, and Luo, Xueming, "Causal Impact of Brands Supports for Abortion Rights on Consumers Spending"
 
 ## <a name="working-in_progress"></a>Work in Progress
-- "How to Sell in Second-hand Market"
+- "How to Sell in Secondhand Market"
   
 ## <a name="codes"></a>Codes
 - [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)

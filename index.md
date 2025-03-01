@@ -1,7 +1,48 @@
 ---
-title: "Mansour Shahhosseini"
-description: "PhD Student in Quantitative Marketing"
+title: ""
+description: ""
 ---
+
+<style>
+/* A simple flex container for a custom header */
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem; /* Some spacing below the header */
+}
+
+/* Style the image (round, fixed width) */
+.header-container img {
+  border-radius: 50%;
+  width: 120px;  /* Adjust size as needed */
+  height: 120px; /* Optional, ensures it's a perfect circle */
+  object-fit: cover;
+}
+
+/* Style for the text next to the image */
+.header-text h1 {
+  margin: 0;
+  font-size: 2rem; /* Adjust to your preference */
+}
+
+.header-text h2 {
+  margin: 0;
+  font-weight: normal;
+  color: #666; /* Subtle color for the subtitle */
+  font-size: 1.2rem; /* Adjust as needed */
+}
+</style>
+
+<!-- Custom Header -->
+<div class="header-container">
+  <img src="assets/profile.jpg" alt="Mansour Shahhosseini" />
+  <div class="header-text">
+    <h1>Mansour Shahhosseini</h1>
+    <h2>PhD Student in Quantitative Marketing</h2>
+  </div>
+</div>
+
 ## CV
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 

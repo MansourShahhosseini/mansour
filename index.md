@@ -3,27 +3,9 @@ title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
 <style>
-/* Force minimal margins/padding on any possible header or container */
-.site-title,
-.site-description,
-.site-header,
-.page-header,
-.post-header,
-.masthead,
-.masthead-title,
-.header-wrapper,
-.wrapper,
-h1 {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-}
-
-/* Optionally, if there's a top margin on body or .page-content: */
-body, .page-content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+hr {
+  margin: 0 !important; 
+  padding: 0 !important;
 }
 </style>
 

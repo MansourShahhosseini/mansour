@@ -2,8 +2,6 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
-[Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
----
 <style>
 /* Force minimal margins/padding on any possible header or container */
 .site-title,
@@ -28,6 +26,9 @@ body, .page-content {
   padding-top: 0 !important;
 }
 </style>
+
+[Education](#education) • [Working Papers](#working-papers) • [Publications](#publications) • [Contact](#contact)
+---
 ## About Me
 
 Please see my [CV](assets/MansourShahhosseini_CV.pdf)

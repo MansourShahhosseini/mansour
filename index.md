@@ -137,5 +137,5 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 <!-- Example: inline links with icons and spacing -->
 [<img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" alt="Email Icon"> **Email**](mailto:mansour.shahhosseini@temple.edu)&emsp;
 [<img src="https://img.icons8.com/ios-glyphs/20/000000/github.png" alt="GitHub Icon"> **GitHub**](https://github.com/MansourShahhosseini)&emsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="20" height="20" alt="Google Scholar Icon"> **Google Scholar**](https://scholar.google.com/citations?user=8iK7T7EAAAAJ&hl=en)  
-[<https://pbs.twimg.com/profile_images/1478307374506995713/6RA1Ax4__400x400.jpg" width="20" height="20" alt="Linkedin Icon"> **Linkedin**](linkedin.com/in/mansour-shahhosseini-9515b91ba)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="20" height="20" alt="Google Scholar Icon"> **Google Scholar**](https://scholar.google.com/citations?user=8iK7T7EAAAAJ&hl=en)&emsp;
+[<img src="https://pbs.twimg.com/profile_images/1478307374506995713/6RA1Ax4__400x400.jpg" width="20" height="20" alt="Linkedin Icon"> **linkedin**](linkedin.com/in/mansour-shahhosseini-9515b91ba)

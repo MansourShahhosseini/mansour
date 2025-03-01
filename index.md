@@ -2,14 +2,12 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
-
 <style>
 /* Center the text */
 .text-container {
   text-align: center;
   margin-bottom: 10px; /* Adjust space */
 }
-
 /* Profile image with larger size */
 .my-profile-pic {
   display: block;
@@ -20,7 +18,6 @@ description: "PhD Student in Quantitative Marketing"
   object-fit: cover;
   background-color: transparent; /* Ensure it blends with the background */
 }
-
 /* Black line - position controlled to prevent extra space */
 .black-line {
   border: none;
@@ -29,11 +26,9 @@ description: "PhD Student in Quantitative Marketing"
   width: 80%; /* Adjust width to fit layout */
 }
 </style>
-
 <!-- Name and Title -->
 <div class="text-container">
 </div>
-
 <!-- Profile Picture (Ensure it's transparent for a clean effect) -->
 <img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
 

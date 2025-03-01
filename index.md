@@ -84,7 +84,7 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
   Journal of Travel & Tourism Marketing, 41(4), 472–490.  
   
 ## <a name="working-papers"></a>Working Papers
-List any ongoing research or manuscripts in progress, along with brief abstracts or statuses.
+- Behrad, Hossein, and Shahhosseini, Mansour, "Show What You Say, Say What You Show: A New Measure of Successful Listing with Empirical Evidence from Airbnb"
 
 
 ## <a name="contact"></a>Contact

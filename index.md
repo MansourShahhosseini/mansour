@@ -54,6 +54,11 @@ Will be updated soon. Really soon!!
   margin: 0.5rem 0 0;
   color: #666;
 }
+
+.timeline li {
+  list-style: none !important;
+  list-style-type: none !important;
+}
 </style>
 
 <ul class="timeline">

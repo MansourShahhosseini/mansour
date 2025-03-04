@@ -4,19 +4,6 @@ description: "PhD Student in Quantitative Marketing"
 ---
 
 <style>
-/* Hide the GitHub Pages footer */
-footer {
-    display: none;
-}
-
-/* Alternative: If it's inside a paragraph at the bottom */
-p:last-child {
-    display: none;
-}
-</style>
-
-
-<style>
 /* Remove the horizontal rule above the image */
 hr {
   display: none; /* Hides all <hr> elements */

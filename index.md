@@ -4,6 +4,18 @@ description: "PhD Student in Quantitative Marketing"
 ---
 
 <style>
+/* Try to hide common GitHub Pages footer containers */
+body > div:last-child {
+    display: none;
+}
+
+/* If the footer is wrapped inside a <p> tag */
+p:last-child {
+    display: none;
+}
+</style>
+
+<style>
 /* Remove the horizontal rule above the image */
 hr {
   display: none; /* Hides all <hr> elements */

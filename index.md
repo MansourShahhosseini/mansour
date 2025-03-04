@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let footer = document.querySelector("footer");
     if (footer) {
         footer.childNodes.forEach(node => {
-            if (node.nodeType === Node.TEXT_NODE || (node.tagName === "A" && node.href.includes("pages.github.com"))) {
+            if (node.nodeType === Node.TEXT_NODE || (node.tagName === "A" && node.innerText.includes("GitHub Pages"))) {
                 node.remove();
             }
         });

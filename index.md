@@ -3,11 +3,14 @@ title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
 
-<style>
-footer {
-    display: "" !important;
-}
-</style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    let footer = document.querySelector("footer");
+    if (footer) {
+        footer.remove();
+    }
+});
+</script>
 
 <style>
 /* Remove the horizontal rule above the image */

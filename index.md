@@ -2,12 +2,6 @@
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing"
 ---
-<style>
-/* Hide the entire footer */
-.site-footer {
-  display: none !important;
-}
-</style>
 
 <style>
 /* Remove the horizontal rule above the image */

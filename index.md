@@ -4,6 +4,12 @@ description: "PhD Student in Quantitative Marketing"
 ---
 
 <style>
+footer {
+    display: "" !important;
+}
+</style>
+
+<style>
 /* Remove the horizontal rule above the image */
 hr {
   display: none; /* Hides all <hr> elements */

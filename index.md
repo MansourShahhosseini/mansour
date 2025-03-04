@@ -7,14 +7,11 @@ description: "PhD Student in Quantitative Marketing"
 document.addEventListener("DOMContentLoaded", function() {
     let footer = document.querySelector("footer");
     if (footer) {
-        footer.childNodes.forEach(node => {
-            if (node.nodeType === Node.TEXT_NODE || (node.tagName === "A" && node.innerText.includes("GitHub Pages"))) {
-                node.remove();
-            }
-        });
+        footer.innerHTML = "Life is not fair, nor is it unfair. It is what it is.";
     }
 });
 </script>
+
 
 <style>
 /* Remove the horizontal rule above the image */

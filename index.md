@@ -7,7 +7,11 @@ description: "PhD Student in Quantitative Marketing"
 document.addEventListener("DOMContentLoaded", function() {
     let footer = document.querySelector("footer");
     if (footer) {
-        footer.remove();
+        footer.childNodes.forEach(node => {
+            if (node.nodeType === Node.TEXT_NODE || (node.tagName === "A" && node.href.includes("pages.github.com"))) {
+                node.remove();
+            }
+        });
     }
 });
 </script>

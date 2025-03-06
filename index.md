@@ -146,6 +146,7 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
   
 ## <a name="codes"></a>Codes
 - [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)
+- [Quantitative Economics](https://github.com/MansourShahhosseini/Quantitative-Economics)
 
 ## <a name="contact"></a>Contact
 <!-- Example: inline links with icons and spacing -->

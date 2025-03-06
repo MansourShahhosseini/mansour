@@ -147,7 +147,8 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 ## <a name="codes"></a>Codes
 - [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)
 - [Quantitative Economics](https://github.com/MansourShahhosseini/Quantitative-Economics)
-
+- [Face Memorability Prediction](https://github.com/MansourShahhosseini/Face-Photograph-Memorability-Score)
+- 
 ## <a name="contact"></a>Contact
 <!-- Example: inline links with icons and spacing -->
 [<img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" alt="Email Icon"> **Email**](mailto:mansour.shahhosseini@temple.edu)&emsp;

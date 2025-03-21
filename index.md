@@ -134,7 +134,7 @@ Please see my [CV](assets/MansourShahhosseini_CV.pdf)
 </ul>
 
 ## <a name="publications"></a>Publications
-- Shahhosseini, M., & Khalili Nasr, A. (2024). [*What attributes affect customer satisfaction in green restaurants? An aspect-based sentiment analysis approach.*](assets/WAACSGR.pdf)  
+- Shahhosseini, M., & Khalili Nasr, A. (2024). [*What attributes affect customer satisfaction in green restaurants? An aspect-based sentiment analysis approach.*](https://www.tandfonline.com/doi/abs/10.1080/10548408.2024.2306358)  
   Journal of Travel & Tourism Marketing, 41(4), 472–490.  
   
 ## <a name="working-papers"></a>Working Papers

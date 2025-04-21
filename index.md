@@ -56,7 +56,7 @@ header + hr {
 <img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
 
 ## CV
-Please see my [CV](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourShahhosseini_CV.docx?rlkey=w07mloyu85gj47xy3y9us0w30&dl=0)
+Please see my [CV](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourShahhosseini_CV.docx?rlkey=qdrngb2cws7po5t5f38hnsdi9&st=kab3qmr2&dl=0)
 
 ## Research Interests
 **Areas:** Customer Analytics, Social Media, Unstructured Data in Marketing   

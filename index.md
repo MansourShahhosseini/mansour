@@ -143,6 +143,7 @@ Please see my [CV](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourS
 
 ## <a name="working-in_progress"></a>Work in Progress
 - "How to Sell in Secondhand Market"
+- "What Makes a Movie Trailer Great?"
   
 ## <a name="codes"></a>Codes
 - [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)

@@ -118,7 +118,7 @@ Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/Man
 
 <ul class="timeline">
   <li class="timeline-item">
-    <span class="timeline-year">2025-2029</span>
+    <span class="timeline-year">2025-2029 (Expected)</span>
     <div class="timeline-content">
       <h4>PhD Student</h4>
       <p>in Quantitative Marketing<br>The University of Texas at Dallas</p>

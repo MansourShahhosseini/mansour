@@ -1,6 +1,6 @@
 ---
 title: "Mansour Shahhosseini"
-description: "PhD Student in Quantitative Marketing"
+description: "PhD Student in Quantitative Marketing at UTD"
 ---
 
 <script>
@@ -120,8 +120,8 @@ Please see my [CV](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourS
   <li class="timeline-item">
     <span class="timeline-year">2025-2029</span>
     <div class="timeline-content">
-      <h4>Marketing PhD Student</h4>
-      <p>The University of Texas at Dallas</p>
+      <h4>PhD Student</h4>
+      <p>in Quantitative Marketing<br>The University of Texas at Dallas</p>
     </div>
   </li>    
   <li class="timeline-item">

@@ -56,7 +56,7 @@ header + hr {
 <img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
 
 ## CV
-Please see my [CV](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourShahhosseini_CV.docx?rlkey=qdrngb2cws7po5t5f38hnsdi9&st=gp67fcdc&dl=0)
+Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourShahhosseini_CV.docx?rlkey=qdrngb2cws7po5t5f38hnsdi9&st=gp67fcdc&dl=0)
 
 ## Research Interests
 **Areas:** Customer Analytics, Social Media, Unstructured Data in Marketing   
@@ -124,6 +124,13 @@ Please see my [CV](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourS
       <p>in Quantitative Marketing<br>The University of Texas at Dallas</p>
     </div>
   </li>    
+  <li class="timeline-item">
+    <span class="timeline-year">2023-2025</span>
+    <div class="timeline-content">
+      <h4>Master of Business Research</h4>
+      <p>in Quantitative Marketing<br>Temple University</p>
+    </div>
+  </li>      
   <li class="timeline-item">
     <span class="timeline-year">2020-2023</span>
     <div class="timeline-content">

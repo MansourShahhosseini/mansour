@@ -121,7 +121,7 @@ Please see my [CV](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourS
     <span class="timeline-year">2025-2029</span>
     <div class="timeline-content">
       <h4>Marketing PhD Student</h4>
-      <p>in Marketing<br>The University of Texas at Dallas</p>
+      <p>The University of Texas at Dallas</p>
     </div>
   </li>    
   <li class="timeline-item">

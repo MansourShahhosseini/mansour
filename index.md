@@ -152,12 +152,12 @@ Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/Man
   Journal of Travel & Tourism Marketing, 41(4), 472–490.  
   
 ## <a name="working-papers"></a>Working Papers
-- Behrad, Hossein, and Shahhosseini, Mansour, "Show What You Say, Say What You Show: A New Measure of Successful Listing with Empirical Evidence from Airbnb"
-- Shahhosseini, Mansour, and Luo, Xueming, "Causal Impact of Brands Supports for Abortion Rights on Consumers Spending"
-
-## <a name="working-in_progress"></a>Work in Progress
-- "How to Sell in Secondhand Market"
+- "How to Sell in the Secondhand Market"
 - "What Makes a Movie Trailer Great?"
+  
+## <a name="working-in_progress"></a>Work in Progress
+- "Unintentional Consequences of Monitoring in Healthcare"
+- "Livestreamers' Hidden Value"
   
 ## <a name="codes"></a>Codes
 - [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)

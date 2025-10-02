@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Mansour Shahhosseini"
 description: "PhD Student in Quantitative Marketing at UTD"
 ---

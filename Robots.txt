@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mansourshahhosseini.github.io/sitemap.xml
